@@ -1,0 +1,16 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/bower_components
+
+# compiled output
+build/
+
+# misc
+npm-debug.log
+
+# temporary editor files
+*.swp
+*.swo
+*~
